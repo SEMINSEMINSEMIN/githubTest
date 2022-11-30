@@ -7,4 +7,8 @@ class Calculator {
   add() {
     return this.value1 + this.value2;
   }
+
+  sub() {
+    return this.value1 - this.value2;
+  }
 }
