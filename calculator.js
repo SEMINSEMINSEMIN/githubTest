@@ -11,4 +11,8 @@ class Calculator {
   sub() {
     return this.value1 - this.value2;
   }
+
+  mul() {
+    return this.value1 * this.value2;
+  }
 }
