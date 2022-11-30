@@ -15,4 +15,8 @@ class Calculator {
   mul() {
     return this.value1 * this.value2;
   }
+
+  div() {
+    return this.value1 / this.value2;
+  }
 }
